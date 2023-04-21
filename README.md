@@ -8,4 +8,5 @@ test release 2.9.0
 test signed commits
 test
 test 2
+testž
 test
